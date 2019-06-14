@@ -1,5 +1,5 @@
 ## GitHub代码管理
-- [面试](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese)     
+- [校招](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese)     
   - [机器学习](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese/tree/master/A-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)                
   - [深度学习](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese/tree/master/A-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)                       
   - [算法](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese/tree/master/C-%E7%AE%97%E6%B3%95)                       

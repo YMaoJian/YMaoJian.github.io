@@ -6,7 +6,7 @@
   - [计算机视觉](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese/tree/master/B-%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)                       
   - [笔试](https://github.com/YMaoJian/Algorithm_Interview_Notes-Chinese/tree/master/D-%E7%AC%94%E8%AF%95%E9%9D%A2%E7%BB%8F)                                             
   
-- [Classifier](https://github.com/YMaoJian/Classifier)
+- [Classifier](https://github.com/YMaoJian/Classifier)                                  
   使用PyTorch实现了经典的深度学习分类算法      
   
 - [gluonCV](https://github.com/YMaoJian/gluon-cv)

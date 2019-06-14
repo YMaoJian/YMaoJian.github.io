@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## GitHub代码管理
 
-You can use the [editor on GitHub](https://github.com/YMaoJian/YMaoJian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [GlunCV](https://github.com/YMaoJian/gluon-cv)--[Tutorials](https://gluon-cv.mxnet.io/)--[Documentation](https://gluon-cv.mxnet.io/)
+  GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   It is designed for engineers, researchers, and students to fast prototype products and research ideas based on these models. 
+   This toolkit offers four main features:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YMaoJian/YMaoJian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    1、Training scripts to reproduce SOTA results reported in research papers
+    2、A large number of pre-trained models
+    3、Carefully designed APIs that greatly reduce the implementation complexity
+    4、Community supports
